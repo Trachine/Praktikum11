@@ -1,8 +1,8 @@
 # Tugas Praktikum 11
 
-### Program Data Mahasiswa
+### Program Data Mahasiswa Dengan Except
 
-Pada praktikum kali ini, kita akan membuat program sederhana untuk membuat data mahasiswa menggunakan class, fungsi dan Dictionary dengan python.
+Pada praktikum kali ini, kita akan membuat program sederhana untuk membuat data mahasiswa menggunakan except, class, fungsi dan Dictionary dengan python.
 
 #### Program Praktikum
 
